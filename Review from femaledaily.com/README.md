@@ -17,3 +17,6 @@ And the review was in Indonesia language
 
 If you want to use this dataset, you can go to my kaggle dataset at:
 https://www.kaggle.com/hafidahmusthaanah/skincare-review
+
+Here's for the preview
+![alt text](https://github.com/fdhanh/Scraping-Projects/blob/main/Review%20from%20femaledaily.com/Preview.JPG?raw=true)
