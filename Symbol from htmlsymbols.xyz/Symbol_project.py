@@ -45,6 +45,5 @@ for page in link:
 
 driver.close()
 
-import pandas as pd
 out = pd.DataFrame(entity, columns = col)
 out.to_excel('Symbol.xlsx')
